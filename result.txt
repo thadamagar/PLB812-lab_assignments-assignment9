@@ -1,0 +1,1 @@
+1. there are 17701 orthogroups were identified for Arabidopsis thaliana, Oryza sativa (rice), and Amborella trichopoda. 2. locus LOC_Os11g32650.1 in rice is the part of orthogroup for the Arabidopsis protein Chalcone Synthase.
